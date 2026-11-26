@@ -4,7 +4,7 @@
 MVC-магазин использует модели Product и Category и JsonProductRepository. Каталог загружается из JSON, фильтруется по категории и сортируется. Есть отдельная карточка товара.
 
 ## Запуск
-PHP 8.0+: `php -S localhost:8000 -t public`, затем http://localhost:8000.
+PHP 8.1+: `php -S localhost:8000 -t public`, затем http://localhost:8000.
 
 ## Маршруты
 - `/` — главная;
